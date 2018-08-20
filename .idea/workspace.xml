@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="003f8c5a-d1ae-404b-85c9-40585562043e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/2$Main.ic" NAME="Main Coverage Results" MODIFIED="1531207877302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1190944235">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="17412" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="17412" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JPG" value="17" />
+          <entry key="MF" value="1" />
+          <entry key="java" value="96" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="17" />
+          <entry key="JAVA" value="96" />
+          <entry key="Manifest" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/ui/UI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Unable#0;class#UI#0" />
+                <element signature="method#Enable#0;class#UI#0" />
+                <element signature="method#Anime#0;class#UI#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/SingleLogicModule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="131" column="25" selection-start-line="131" selection-start-column="25" selection-end-line="131" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Dulto#0;class#SingleLogicModule#0" />
+                <element signature="method#toDul#0;class#SingleLogicModule#0" />
+                <element signature="method#load#0;class#SingleLogicModule#0" />
+                <element signature="method#store#0;class#SingleLogicModule#0" />
+                <element signature="method#LogDataBase#0;class#SingleLogicModule#0" />
+                <element signature="method#quitDataBase#0;class#SingleLogicModule#0" />
+                <element signature="method#move#0;class#SingleLogicModule#0" />
+                <element signature="method#setBackBlocks#0;class#SingleLogicModule#0" />
+                <element signature="method#MoveBackAllBlocks#0;class#SingleLogicModule#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/DoubleLogicModule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+              <folding>
+                <element signature="method#DoubleLogicModule#0;class#DoubleLogicModule#0" />
+                <element signature="method#MoveLeftBlocks#0;class#DoubleLogicModule#0" />
+                <element signature="method#MoveRightBlocks#0;class#DoubleLogicModule#0" />
+                <element signature="method#setAllBlocks#0;class#DoubleLogicModule#0" />
+                <element signature="method#setLeftBlocks#0;class#DoubleLogicModule#0" />
+                <element signature="method#checkPosition#0;class#DoubleLogicModule#0" />
+                <element signature="method#setRightBlocks#0;class#DoubleLogicModule#0" />
+                <element signature="method#send#0;class#DoubleLogicModule#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/ui/DoubleUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="138" column="29" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#addButton#0;class#DoubleUI#0" />
+                <element signature="method#drawBackGround#0;class#DoubleUI#0" />
+                <element signature="method#init_endFrame#0;class#DoubleUI#0" />
+                <element signature="method#init_GameView#0;class#DoubleUI#0" />
+                <element signature="method#init_Rs#0;class#DoubleUI#0" />
+                <element signature="method#Anime#0;class#DoubleUI#0" />
+                <element signature="method#AnimeLeft#0;class#DoubleUI#0" />
+                <element signature="method#show_end#0;class#DoubleUI#0" />
+                <element signature="method#AnimeRight#0;class#DoubleUI#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/Opp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Opp#1;class#Opp#0" />
+                <element signature="method#init#0;class#Opp#0" />
+                <element signature="method#send#0;class#Opp#0" />
+                <element signature="method#receive#0;class#Opp#0" />
+                <element signature="method#close#0;class#Opp#0" />
+                <element signature="method#readOne#0;class#Opp#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/LogicModule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="132" column="5" selection-start-line="132" selection-start-column="5" selection-end-line="132" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#addKeyEvent#0;class#LogicModule#0" />
+                <element signature="method#LogicModule#0;class#LogicModule#0" />
+                <element signature="method#randCreate#0;class#LogicModule#0" />
+                <element signature="method#checked#0;class#LogicModule#0" />
+                <element signature="method#Restart#0;class#LogicModule#0" />
+                <element signature="method#checkMove#0;class#LogicModule#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/RoomPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/ui/SingleUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#init_GameView#0;class#SingleUI#0" />
+                <element signature="method#addListener#0;class#SingleUI#0" />
+                <element signature="method#Unable#0;class#SingleUI#0" />
+                <element signature="method#init_errorFrame#0;class#SingleUI#0" />
+                <element signature="method#SingleUI#0;class#SingleUI#0" />
+                <element signature="method#init_endFrame#0;class#SingleUI#0" />
+                <element signature="method#addButton#0;class#SingleUI#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/ImageBlock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="method#ImageBlock#0;class#ImageBlock#0" />
+                <element signature="method#move#0;class#ImageBlock#0" />
+                <element signature="method#log#0;class#ImageBlock#0" />
+                <element signature="method#setValue#0;class#ImageBlock#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clear</find>
+      <find>receive</find>
+      <find>setAllBlocks</find>
+      <find>imageBlocks2</find>
+      <find>addListener</find>
+      <find>send</find>
+      <find>Reflash</find>
+      <find>Sys</find>
+      <find>draw</find>
+      <find>show_end</find>
+      <find>image</find>
+      <find>sy</find>
+      <find>system</find>
+      <find>s</find>
+      <find>BackToMenu</find>
+      <find>conced</find>
+      <find>Bac</find>
+      <find>sys</find>
+      <find>show</find>
+      <find>concede</find>
+      <find>images</find>
+      <find>setEna</find>
+      <find>ENable</find>
+      <find>und</find>
+      <find>Undobu</find>
+      <find>short</find>
+      <find>Undo</find>
+      <find>Res</find>
+      <find>R</find>
+      <find>store</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>xSet</replace>
+      <replace>2048Frame</replace>
+      <replace>GameFrame</replace>
+      <replace>GamePanel</replace>
+      <replace>Opp</replace>
+      <replace>SingleGamePanel</replace>
+      <replace>DEFAULT</replace>
+      <replace>ConcedeButton</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Game2048" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Server.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SingleGamePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/company/RoomPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/company/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MenuPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Opp.java" />
+        <option value="$PROJECT_DIR$/src/com/company/GameFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/company/OppositePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/OppositePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/Opp.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/LogicModule.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/SingleGamePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/SingleGame.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/ImageBlock.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/GameFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/MenuPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/SingleGame.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/Game.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/OppositePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/MenuPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/MyKeyEvent.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/DoubleLogicModule.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/ImageBlock.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/Opp.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/RoomPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/GameFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/ui/SingleUI.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/LogicModule.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/ui/UI.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/ui/DoubleUI.java" />
+        <option value="$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/SingleLogicModule.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="26" />
+    <option name="y" value="45" />
+    <option name="width" value="1414" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="D:" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game2048" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game2048" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game2048" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game2048" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="mysql-connector-java-8.0.11.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534238956646" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.yuqiaohe.Game2048.Main" />
+      <module name="2" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="003f8c5a-d1ae-404b-85c9-40585562043e" name="Default" comment="" />
+      <created>1530524072209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530524072209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="26" y="45" width="1414" height="775" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.50329673" side_tool="true" weight="0.2951895" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4967033" visible="true" weight="0.41472304" />
+      <window_info id="Structure" order="6" sideWeight="0.50109893" side_tool="true" weight="0.29081634" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49927112" weight="0.32890856" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5327988" side_tool="true" visible="true" weight="0.32796487" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.48760933" weight="0.32796487" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" sideWeight="0.49927112" weight="0.32890856" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.46720117" weight="0.32796487" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49708456" weight="0.3967789" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32944608" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/out/production/2/com/company/KeyEventDemo.class" />
+    <entry file="file://$PROJECT_DIR$/out/production/2/com/company/GameFrame.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/KeyEventDemo$KeyboardPanel$1.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/KeyEventDemo.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6870">
+          <caret line="481" column="12" selection-start-line="481" selection-start-column="12" selection-end-line="481" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/LayoutManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-372">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="8718" column="19" selection-start-line="8718" selection-start-column="19" selection-end-line="8718" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/WindowConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="316" column="5" selection-start-line="296" selection-start-column="4" selection-end-line="316" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/mysql-connector-java-8.0.11/src/main/user-impl/java/com/mysql/cj/jdbc/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.sql/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2685">
+          <caret line="216" column="29" selection-start-line="216" selection-start-column="29" selection-end-line="216" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/event/KeyAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Server.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/AbstractButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26505">
+          <caret line="1868" column="16" selection-start-line="1868" selection-start-column="16" selection-end-line="1868" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/net/SocketAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7890">
+          <caret line="559" column="16" selection-start-line="559" selection-start-column="16" selection-end-line="559" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/event/WindowAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="116" column="1" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13230">
+          <caret line="934" column="43" selection-start-line="934" selection-start-column="43" selection-end-line="934" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/Game.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/SingleGame.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/JPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/OppositePanel.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/GamePanel.java" />
+    <entry file="file://$PROJECT_DIR$/D:/lg_0.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D:/lg_6.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D:/lg_15.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D:/lg_16.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/MyKeyEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D:/lg_14.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D:/lg_13.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D:/lg_1.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D:/lg_9.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D:/lg_10.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D:/lg_11.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D:/lg_12.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/GameFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/MenuPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="54" column="20" lean-forward="true" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/mysql-connector-java-8.0.11/src/main/user-impl/java/com/mysql/cj/jdbc/StatementImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="362" selection-start-line="362" selection-end-line="362" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/ui/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Unable#0;class#UI#0" />
+            <element signature="method#Enable#0;class#UI#0" />
+            <element signature="method#Anime#0;class#UI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/SingleLogicModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="131" column="25" selection-start-line="131" selection-start-column="25" selection-end-line="131" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Dulto#0;class#SingleLogicModule#0" />
+            <element signature="method#toDul#0;class#SingleLogicModule#0" />
+            <element signature="method#load#0;class#SingleLogicModule#0" />
+            <element signature="method#store#0;class#SingleLogicModule#0" />
+            <element signature="method#LogDataBase#0;class#SingleLogicModule#0" />
+            <element signature="method#quitDataBase#0;class#SingleLogicModule#0" />
+            <element signature="method#move#0;class#SingleLogicModule#0" />
+            <element signature="method#setBackBlocks#0;class#SingleLogicModule#0" />
+            <element signature="method#MoveBackAllBlocks#0;class#SingleLogicModule#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/DoubleLogicModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="method#DoubleLogicModule#0;class#DoubleLogicModule#0" />
+            <element signature="method#MoveLeftBlocks#0;class#DoubleLogicModule#0" />
+            <element signature="method#MoveRightBlocks#0;class#DoubleLogicModule#0" />
+            <element signature="method#setAllBlocks#0;class#DoubleLogicModule#0" />
+            <element signature="method#setLeftBlocks#0;class#DoubleLogicModule#0" />
+            <element signature="method#checkPosition#0;class#DoubleLogicModule#0" />
+            <element signature="method#setRightBlocks#0;class#DoubleLogicModule#0" />
+            <element signature="method#send#0;class#DoubleLogicModule#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/ui/DoubleUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="138" column="29" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addButton#0;class#DoubleUI#0" />
+            <element signature="method#drawBackGround#0;class#DoubleUI#0" />
+            <element signature="method#init_endFrame#0;class#DoubleUI#0" />
+            <element signature="method#init_GameView#0;class#DoubleUI#0" />
+            <element signature="method#init_Rs#0;class#DoubleUI#0" />
+            <element signature="method#Anime#0;class#DoubleUI#0" />
+            <element signature="method#AnimeLeft#0;class#DoubleUI#0" />
+            <element signature="method#show_end#0;class#DoubleUI#0" />
+            <element signature="method#AnimeRight#0;class#DoubleUI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/LogicModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="132" column="5" selection-start-line="132" selection-start-column="5" selection-end-line="132" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addKeyEvent#0;class#LogicModule#0" />
+            <element signature="method#LogicModule#0;class#LogicModule#0" />
+            <element signature="method#randCreate#0;class#LogicModule#0" />
+            <element signature="method#checked#0;class#LogicModule#0" />
+            <element signature="method#Restart#0;class#LogicModule#0" />
+            <element signature="method#checkMove#0;class#LogicModule#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/model/RoomPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/ui/SingleUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#init_GameView#0;class#SingleUI#0" />
+            <element signature="method#addListener#0;class#SingleUI#0" />
+            <element signature="method#Unable#0;class#SingleUI#0" />
+            <element signature="method#init_errorFrame#0;class#SingleUI#0" />
+            <element signature="method#SingleUI#0;class#SingleUI#0" />
+            <element signature="method#init_endFrame#0;class#SingleUI#0" />
+            <element signature="method#addButton#0;class#SingleUI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/ImageBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="method#ImageBlock#0;class#ImageBlock#0" />
+            <element signature="method#move#0;class#ImageBlock#0" />
+            <element signature="method#log#0;class#ImageBlock#0" />
+            <element signature="method#setValue#0;class#ImageBlock#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuqiaohe/Game2048/core/Opp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Opp#1;class#Opp#0" />
+            <element signature="method#init#0;class#Opp#0" />
+            <element signature="method#send#0;class#Opp#0" />
+            <element signature="method#receive#0;class#Opp#0" />
+            <element signature="method#close#0;class#Opp#0" />
+            <element signature="method#readOne#0;class#Opp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>2:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
